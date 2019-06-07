@@ -1,2 +1,2 @@
 # Bug-reports
-File with bgus of Univeris system of South Ural State University
+File with bugs of Univeris system of South Ural State University
